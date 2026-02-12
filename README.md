@@ -1,3 +1,1 @@
-# React + TypeScript + Vite + shadcn/ui
-
-This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
+Hello and welcome to my website this is just the start but I will be adding my research and more information as I build my career in finance
