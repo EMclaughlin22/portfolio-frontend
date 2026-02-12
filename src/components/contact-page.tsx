@@ -22,7 +22,7 @@ const CONTACT = {
   email: "enrique.mclaughlin.careers@gmail.com",
   phone: "347.779.5385",
   linkedin: "https://www.linkedin.com/in/enrique-mclaughlin",
-  github: "https://github.com/enrique-mclaughlin",
+  github: "https://github.com/EMclaughlin22",
   title: "Investment Banking Analyst",
   company: "Citi, M&A Group",
 }
@@ -169,7 +169,7 @@ export function ContactPage({ onBack }: ContactPageProps) {
                 label="GitHub"
                 href={CONTACT.github}
               >
-                github.com/enrique-mclaughlin
+                github.com/EMclaughlin22
               </ContactItem>
             </div>
 
