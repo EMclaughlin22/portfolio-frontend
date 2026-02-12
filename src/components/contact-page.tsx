@@ -137,7 +137,7 @@ export function ContactPage({ onBack }: ContactPageProps) {
               <img
                 src="/contact-photo.jpg"
                 alt="Enrique McLaughlin portrait"
-                className="border-background h-28 w-28 rounded-full border-4 object-cover object-[50%_30%]"
+                className="border-background h-28 w-28 rounded-none border-4 object-cover object-top"
               />
               <div>
                 <h1 className="text-2xl font-semibold tracking-tight">
